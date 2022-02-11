@@ -1,6 +1,6 @@
 # 김커북의 개발세상 :kissing_heart:
 
-알고리즘밖에 모르는 바보지만 아직 알고리즘도 초보,, <br>
+알고리즘밖에 모르는 바보지만 사실 알고리즘도 초보,, <br>
 CS공부 및 개발 합시다 :fire: <br>
 백엔드 개발자 하고싶어요:joy: <br>
 
@@ -33,7 +33,7 @@ CS공부 및 개발 합시다 :fire: <br>
 # :star: 나의 목표 :star:
  :sunflower: 2주일에 책 한권 읽기<br>
  :sunflower: 알고리즘 하루에 한 문제 풀기 <br>
- :sunflower: 개발 열씨미 하기 :fire:
+ :sunflower: CS공부 / 개발 열씨미 하기 :fire:
 
 <br>
 
