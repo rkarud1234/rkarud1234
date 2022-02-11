@@ -1,5 +1,5 @@
 알고리즘밖에 모르는 바보 <br>
-개발시작!
+CS공부 및 개발 합시다
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
