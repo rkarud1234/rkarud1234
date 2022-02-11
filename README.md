@@ -4,8 +4,6 @@
 CS공부 및 개발 합시다 :fire: <br>
 백엔드 개발자 하고싶어요:joy: <br>
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkarud1234%2Fhit-counter&count_bg=%23FFE1E1&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
