@@ -26,18 +26,3 @@ CS공부 및 개발 합시다 :fire: <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 <br>
-
------------------------------------
-# :star: 나의 목표 :star:
- :sunflower: 2주일에 책 한권 읽기<br>
- :sunflower: 알고리즘 하루에 한 문제 풀기 <br>
- :sunflower: CS공부 / 개발 열씨미 하기 :fire:
-
-<br>
-
------------------------------------
-## 단기 목표(2월 11일 ~ 3월 중순)
-1. 백준 골드1 달성
-2. 종만북 공부(챕터 2까지)
-4. HTML, CSS, JS, Vue 찍먹
-5. jsp/servelt, spring, db 공부
