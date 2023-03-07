@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkarud1234%2Fhit-counter&count_bg=%23FFE1E1&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 2023 목표
+- 알고리즘 고수되기
+- Spring 중수 도달 (사이드 프로젝트)
 
 
 ![커북's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkarud1234&show_icons=true&theme=dracula)
