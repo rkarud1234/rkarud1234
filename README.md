@@ -5,6 +5,7 @@
 ### 2023 목표
 - 알고리즘 고수되기
 - Spring 중수 도달 (사이드 프로젝트)
+- 풀스택 개발자 찍먹
 
 
 ![커북's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkarud1234&show_icons=true&theme=dracula)
